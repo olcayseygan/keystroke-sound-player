@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pdb
+
+# Distribution / packaging
+dist/
+build/
+*.spec
+
+# PyInstaller specific
+*.exe
+*.manifest
+*.spec
+
+# Virtual environment
+venv/
+env/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Mac OS X
+.DS_Store
+
+# Windows
+Thumbs.db
